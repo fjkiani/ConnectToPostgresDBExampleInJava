@@ -1,0 +1,1 @@
+INSERT INTO customers (firstName, lastName, email) VALUES ('Josh','Akins','josh@fakemail.com');
